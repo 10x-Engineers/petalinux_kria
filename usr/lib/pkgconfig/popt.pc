@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: popt
+Version: 1.18
+Description: popt library.
+Libs: -L${libdir} -lpopt
+Cflags: -I${includedir}

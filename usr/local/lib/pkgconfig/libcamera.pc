@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libcamera
+Description: Complex Camera Support Library
+Version: 0.0.2
+Requires: libcamera-base
+Libs: -L${libdir} -lcamera
+Cflags: -I${includedir}/libcamera

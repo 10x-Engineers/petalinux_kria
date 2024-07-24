@@ -1,0 +1,5 @@
+ID=petalinux
+NAME="PetaLinux"
+VERSION="2022.1_update3_09151236 (honister)"
+VERSION_ID=2022.1_update3_09151236
+PRETTY_NAME="PetaLinux 2022.1_update3_09151236 (honister)"

@@ -1,0 +1,5 @@
+/usr/lib/libMali.so.9.0
+/usr/lib/x11/libMali.so.9.0 20
+/usr/lib/fbdev/libMali.so.9.0 10
+/usr/lib/wayland/libMali.so.9.0 10
+/usr/lib/headless/libMali.so.9.0 15

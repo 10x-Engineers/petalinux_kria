@@ -1,0 +1,2 @@
+disable man-db.timer
+disable man-db.service

@@ -1,4 +1,4 @@
-# Customize PetaLinux
+# PetaLinux
 ## Overview
 We modified PetaLinux (2022.1) provided in the 
 [zynqmp_cam_isp_demo_linux](https://github.com/bxinquan/zynqmp_cam_isp_demo_linux.git) project, resolved all dependencies, and installed the necessary packages to run our developed libcamera-based application, [custom-camera-application](https://github.com/10xEngineersTech/custom-camera-application.git).  
